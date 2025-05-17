@@ -1,0 +1,5 @@
+C:\ML_Projects\MLFlow
+create -p env python==3.9 -y
+conda activate env/
+pip install -r requirements.txt
+https://mlflow.org/docs/2.7.1/tutorials-and-examples/tutorial.html
